@@ -300,6 +300,7 @@
 				B82059CA1DBCF8FE0049ADF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
